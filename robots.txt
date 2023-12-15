@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://vinaybyte.in/sitemap.xml
+Host: https://vinaybyte.in
